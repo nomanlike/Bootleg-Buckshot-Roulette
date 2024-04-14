@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\bin\Debug\bootleg.exe.config
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\bin\Debug\bootleg.exe
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\bin\Debug\bootleg.pdb
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.Bootleg_game.resources
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.Properties.Resources.resources
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.exe
+C:\Users\Acer\Desktop\gamemaking\buckshot roulette bootleg\bootleg\bootleg\obj\Debug\bootleg.pdb
